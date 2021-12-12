@@ -43,6 +43,14 @@ https://www.amazon.com/gp/aw/d/1509301046/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 Download link(the download button is in the right-hand upper corner) :
 https://www.docdroid.net/file/download/jhuojDC/1509301046-pdf.pdf
 
+
+
+If you don't want to use Visual studio community you can do it to a certain point online : 
+
+https://www.tutorialspoint.com/compile_csharp_online.php
+
+
+
 Main book list : https://hackr.io/blog/csharp-books
 
 
