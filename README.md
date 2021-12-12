@@ -46,7 +46,13 @@ Amazon link(if you wanna buy it) :
 https://www.amazon.com/gp/aw/d/1509301046/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
 Download link :
+
+Safe :
 https://mega.nz/file/KkkAnJob#ZwVzbsgtIVI8-ly5pHxJkMmfWTS_ql8wraBjUyNXI4I
+
+Unsafe :
+https://www.docdroid.net/jhuojDC/1509301046-pdf
+
 
 
 
