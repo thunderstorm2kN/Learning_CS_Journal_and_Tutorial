@@ -49,9 +49,18 @@ Download link :
 https://mega.nz/file/KkkAnJob#ZwVzbsgtIVI8-ly5pHxJkMmfWTS_ql8wraBjUyNXI4I
 
 
+
+MAIN IDE(it's free but it requires a Microsoft account to be able to use & maintain it for more than 30 days) for learning C/C++/CS(aka C#) :
+
+https://visualstudio.microsoft.com/vs/community/
+
+
+
+
 If you don't want to use Visual studio community you can do it to a certain point online : 
 
 https://www.tutorialspoint.com/compile_csharp_online.php
+
 
 
 
