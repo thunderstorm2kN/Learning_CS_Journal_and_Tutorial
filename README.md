@@ -41,8 +41,7 @@ Amazon link(if you wanna buy it) :
 https://www.amazon.com/gp/aw/d/1509301046/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
 Download link(the download button is in the right-hand upper corner) :
-https://www.docdroid.net/file/download/jhuojDC/1509301046-pdf.pdf
-
+https://mega.nz/file/KkkAnJob#ZwVzbsgtIVI8-ly5pHxJkMmfWTS_ql8wraBjUyNXI4I
 
 
 If you don't want to use Visual studio community you can do it to a certain point online : 
