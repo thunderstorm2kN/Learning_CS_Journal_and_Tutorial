@@ -50,7 +50,7 @@ https://mega.nz/file/KkkAnJob#ZwVzbsgtIVI8-ly5pHxJkMmfWTS_ql8wraBjUyNXI4I
 
 
 
-MAIN IDE(it's free but it requires a Microsoft account to be able to use & maintain it for more than 30 days) for learning C/C++/CS(aka C#) :
+MAIN IDE(it's free but it requires a Microsoft account to be able to use & maintain it for more than 30 days) for learning C/C++/CS(aka C#) and Python :
 
 https://visualstudio.microsoft.com/vs/community/
 
