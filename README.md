@@ -14,17 +14,34 @@ https://youtu.be/wfWxdh-_k_4
 
 
 
-
-
-
-Other links are :
+Other BOOKS links are :
 
 Amazon to a "to the point book" , that explains quickly : 
+
+Name : The C# Player’s Guide Third Edition
+RB Whitaker
+
+Amazon link(if you wanna buy it) :
 https://www.amazon.com/gp/aw/d/0985580135/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
+Instant Download link :
 
-Amazon to a more detailed and slower approach made my Microsoft themselves :
+https://usermanual.wiki/Document/The20C2320Players20Guide2020Third20Edition.1040104544.pdf
+
+
+
+
+
+A more detailed and slower approach made my Microsoft themselves :
+
+Name : 
+
+Amazon link(if you wanna buy it) :
+
 https://www.amazon.com/gp/aw/d/1509301046/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
+
+Download link(the download button is in the right-hand upper corner) :
+https://www.docdroid.net/file/download/jhuojDC/1509301046-pdf.pdf
 
 Main book list : https://hackr.io/blog/csharp-books
 
