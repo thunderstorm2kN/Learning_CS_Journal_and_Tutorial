@@ -55,6 +55,19 @@ https://www.docdroid.net/jhuojDC/1509301046-pdf
 
 
 
+REFERENCE Book :
+Name : C# 8 in a nutshell 
+
+Download links :
+https://archive.org/details/c-80-in-a-nutshell-eric-johannsen
+
+Instant (pdf)download from archive dot org :
+https://archive.org/download/c-80-in-a-nutshell-eric-johannsen/C_80_in_a_Nutshell_-_Eric_Johannsen.pdf
+
+Quick &Secure Mega download :
+https://mega.nz/file/yk8SEDbQ#CGNyElJm1KlTFQskO_7lLTbWG-8sjIHsBys52-TpBJI
+
+
 
 MAIN IDE(it's free but it requires a Microsoft account to be able to use & maintain it for more than 30 days) for learning C/C++/CS(aka C#) and Python :
 
