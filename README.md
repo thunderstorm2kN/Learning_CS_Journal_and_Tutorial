@@ -45,7 +45,7 @@ Amazon link(if you wanna buy it) :
 
 https://www.amazon.com/gp/aw/d/1509301046/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
-Download link(the download button is in the right-hand upper corner) :
+Download link :
 https://mega.nz/file/KkkAnJob#ZwVzbsgtIVI8-ly5pHxJkMmfWTS_ql8wraBjUyNXI4I
 
 
