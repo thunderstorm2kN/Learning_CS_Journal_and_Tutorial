@@ -19,8 +19,11 @@ https://youtu.be/wfWxdh-_k_4
 
 Other links are :
 
+Amazon to a "to the point book" , that explains quickly : 
 https://www.amazon.com/gp/aw/d/0985580135/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
+
+Amazon to a more detailed and slower approach made my Microsoft themselves :
 https://www.amazon.com/gp/aw/d/1509301046/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
 Main book list : https://hackr.io/blog/csharp-books
