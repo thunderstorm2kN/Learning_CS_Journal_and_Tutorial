@@ -26,7 +26,12 @@ https://www.amazon.com/gp/aw/d/0985580135/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
 
 Instant Download link :
 
+safer :
+https://mega.nz/file/20kkxACa#rtKvIRFheifiXCURDlLbKL2sC6dAL5nC4pUDrvjhJVo
+
+Not as safe :
 https://usermanual.wiki/Document/The20C2320Players20Guide2020Third20Edition.1040104544.pdf
+
 
 
 
