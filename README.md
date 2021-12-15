@@ -68,6 +68,9 @@ Quick &Secure Mega download :
 https://mega.nz/file/yk8SEDbQ#CGNyElJm1KlTFQskO_7lLTbWG-8sjIHsBys52-TpBJI
 
 
+Music playlist :
+https://youtu.be/n9Y2Eb4BaSg
+
 
 MAIN IDE(it's free but it requires a Microsoft account to be able to use & maintain it for more than 30 days) for learning C/C++/CS(aka C#) and Python :
 
