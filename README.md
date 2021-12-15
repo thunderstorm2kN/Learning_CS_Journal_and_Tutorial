@@ -68,8 +68,19 @@ Quick &Secure Mega download :
 https://mega.nz/file/yk8SEDbQ#CGNyElJm1KlTFQskO_7lLTbWG-8sjIHsBys52-TpBJI
 
 
-Music playlist :
+Music playlists :
+
+Sleepy/calm music :
 https://youtu.be/n9Y2Eb4BaSg
+https://youtu.be/FuaQ1QhJOkc
+https://youtu.be/EHFDLiIR-ec
+https://youtu.be/GjEYJsAcGTc
+https://youtu.be/ken7wiS8VMI
+https://youtu.be/XJp5UoMiWFE
+
+Wake up music :
+https://youtu.be/KhovmKOdros
+
 
 
 MAIN IDE(it's free but it requires a Microsoft account to be able to use & maintain it for more than 30 days) for learning C/C++/CS(aka C#) and Python :
